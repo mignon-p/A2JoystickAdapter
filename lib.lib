@@ -1,6 +1,6 @@
-#
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
+#
 # DE9_Male
 #
 DEF DE9_Male J 0 40 Y N 1 F N
