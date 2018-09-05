@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP DE9_Male
-D 9-pin male D-SUB connector
-K connector male D-SUB
-F  ~
-$ENDCMP
-#
 $CMP DE9_Male_MountingHoles
 D 9-pin male D-SUB connector, Mounting Hole
 K connector male D-SUB
