@@ -10,10 +10,18 @@ This adapter could also be useful for the Apple IIc, which does not
 have a 16-pin joystick port at all, although I have not tested it on a
 IIc.
 
+* [View schematic](doc/schematic.pdf)
+
+![Joystick Adapter](doc/joystick-adapter.jpg)
+
 ## Bill of Materials
 
 * [Right-angle male DE-9 connector][1]
 * [16-pin DIP socket][2]
+
+I found it necessary to remove the hex screws from the DE-9 connector,
+because they prevented it from mating with the connector on the Apple
+IIe.
 
 ## License
 
@@ -21,6 +29,10 @@ This project is licensed under [CC-BY-SA 4.0][10].
 
 The symbol and footprint for the DE-9 connector are from
 [the official KiCad 5 library][8] ([CC-BY-SA 4.0 with exception][9]).
+
+![Plugging in the joystick](doc/plugged-in.jpg)
+
+![Adapter with joystick](doc/with-joystick.jpg)
 
 [1]: https://www.digikey.com/product-detail/en/assmann-wsw-components/A-DS-09-A-KG-T2S/AE10968-ND/1241804
 [2]: https://www.digikey.com/product-detail/en/assmann-wsw-components/A-16-LC-TT/AE9992-ND/821746
