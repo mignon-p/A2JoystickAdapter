@@ -11,6 +11,7 @@ have a 16-pin joystick port at all, although I have not tested it on a
 IIc.
 
 * [View schematic](doc/schematic.pdf)
+* [View PCB][41]
 
 ![Joystick Adapter](doc/joystick-adapter.jpg)
 
@@ -22,6 +23,14 @@ IIc.
 I found it necessary to remove the hex screws from the DE-9 connector,
 because they prevented it from mating with the connector on the Apple
 IIe.
+
+## Ordering the Board
+
+You can order this board [directly from OSH Park][40] without needing
+to upload anything.
+
+If you want to modify the design, the source is provided in
+[KiCad][83] format.
 
 ## License
 
@@ -39,3 +48,6 @@ The symbol and footprint for the DE-9 connector are from
 [8]: https://github.com/KiCad/kicad-symbols/blob/master/Connector.lib
 [9]: https://forum.kicad.info/t/kicad-library-licensing/7856
 [10]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[40]: https://oshpark.com/shared_projects/WuNA7JH0
+[41]: https://eyrie.io/board/068ea680987149dfb0afcb60a86e0048
+[83]: http://kicad-pcb.org/
