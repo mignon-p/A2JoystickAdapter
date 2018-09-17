@@ -36,8 +36,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "16-pin to 9-pin joystick adapter for Apple II"
-Date ""
-Rev ""
+Date "2018-09-05"
+Rev "1.0"
 Comp "Patrick Pelletier"
 Comment1 ""
 Comment2 ""
