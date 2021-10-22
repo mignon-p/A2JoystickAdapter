@@ -50,4 +50,4 @@ The symbol and footprint for the DE-9 connector are from
 [10]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 [40]: https://oshpark.com/shared_projects/WuNA7JH0
 [41]: https://eyrie.io/board/068ea680987149dfb0afcb60a86e0048
-[83]: http://kicad-pcb.org/
+[83]: http://kicad.org/
